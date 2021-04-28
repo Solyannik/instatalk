@@ -1,0 +1,366 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"si",
+				"signed"
+			],
+			[
+				"pi",
+				"pin2chek"
+			],
+			[
+				"image",
+				"image_url"
+			],
+			[
+				"im",
+				"image_url"
+			],
+			[
+				"bu",
+				"buy"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"su",
+				"subject"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/olga/.cache/.fr-z1w7JW/instatalk-action-cable/app/views/messages/_form.html.erb",
+		"/home/olga/.cache/.fr-vYcUvZ/instatalk-action-cable/app/assets/javascripts/channels/room.coffee",
+		"/home/olga/.cache/.fr-YCFyXv/instatalk-action-cable/config/routes.rb",
+		"/home/olga/.cache/.fr-WZWBXu/instatalk-action-cable/config/routes.rb",
+		"/home/olga/.cache/.fr-9jKNct/instatalk-action-cable/config/environments/test.rb",
+		"/home/olga/.cache/.fr-T1KKjw/instatalk-action-cable/config/environments/production.rb",
+		"/home/olga/.cache/.fr-Y4H2Xt/instatalk-action-cable/config/environments/development.rb",
+		"/home/olga/.cache/.fr-F2O73r/instatalk-action-cable/config/environments/production.rb",
+		"/home/olga/.cache/.fr-ZXd7lu/instatalk-action-cable/config/environments/development.rb",
+		"/home/olga/.cache/.fr-yszD4r/instatalk-action-cable/Gemfile.lock",
+		"/home/olga/.cache/.fr-V7zhUt/instatalk-action-cable/app/assets/javascripts/application.js",
+		"/home/olga/.cache/.fr-SgsEMu/instatalk-action-cable/app/assets/javascripts/application.js",
+		"/home/olga/.cache/.fr-M4IaLv/instatalk-action-cable/app/assets/javascripts/application.js",
+		"/home/olga/.cache/.fr-I8xJIu/instatalk-action-cable/package.json",
+		"/home/olga/.cache/.fr-mMf8Hv/instatalk-action-cable/config/application.rb",
+		"/home/olga/.cache/.fr-6uWsnt/instatalk-action-cable/app/assets/config/manifest.js",
+		"/home/olga/.cache/.fr-I77OTs/instatalk-action-cable/app/assets/javascripts/channels/room.coffee",
+		"/home/olga/.cache/.fr-Ffq64v/instatalk-action-cable/app/assets/javascripts/cable.js",
+		"/home/olga/.cache/.fr-uaEOat/instatalk-action-cable/app/views/messages/_message.html.erb",
+		"/home/olga/.cache/.fr-N49Vgm/instatalk-rails-5-turbolinks/app/views/rooms/_room.html.erb",
+		"/home/olga/.cache/.fr-SCbbjl/instatalk-rails-5-turbolinks/app/views/rooms/_form.html.erb",
+		"/home/olga/.cache/.fr-moFjKi/instatalk-rails-5-turbolinks/app/views/rooms/index.html.erb",
+		"/home/olga/.cache/.fr-Rd83sl/instatalk-rails-5-turbolinks/app/views/rooms/show.html.erb",
+		"/home/olga/.cache/.fr-ynUsFm/instatalk-rails-5-turbolinks/app/views/layouts/mailer.text.erb",
+		"/home/olga/.cache/.fr-toEBuk/instatalk-rails-5-turbolinks/app/views/layouts/mailer.html.erb",
+		"/home/olga/.cache/.fr-U5yOQk/instatalk-rails-5-turbolinks/app/views/layouts/mailer.html.erb",
+		"/home/olga/.cache/.fr-LQ88fl/instatalk-rails-5-turbolinks/app/views/layouts/application.html.erb",
+		"/home/olga/.cache/.fr-zFFhRm/instatalk-rails-5-turbolinks/config/routes.rb",
+		"/home/olga/.cache/.fr-lBgkVk/instatalk-rails-5-turbolinks/app/controllers/rooms_controller.rb",
+		"/home/olga/.cache/.fr-Y8gPYm/instatalk-rails-5-turbolinks/app/controllers/rooms_controller.rb",
+		"/home/olga/.ssh/.config.swo",
+		"/home/olga/.ssh/-----BEGIN OPENSSH PRIVATE KEY-----.pub",
+		"/home/olga/.ssh/genrsakey.pub",
+		"/home/olga/.ssh/y.pub",
+		"/home/olga/setevaya/how_many_vowel.rb",
+		"/home/olga/rortut/askme/.gitignore",
+		"/home/olga/.cache/.fr-om4BA1/khsm63-hw/spec/models/game_question_spec.rb",
+		"/home/olga/.cache/.fr-D23xbY/khsm63-hw/spec/models/game_question_spec.rb",
+		"/home/olga/rubytut3/lesson9/business_CARD/main.rb",
+		"/home/olga/rortut/khsm/spec/views/user/index.html.erb_spec.rb",
+		"/home/olga/rortut/khsm/spec/views/user/_game.html.erb_spec.rb",
+		"/home/olga/rubytut3/lesson2/my_card_json/business_card.rb",
+		"/home/olga/.cache/.fr-k8u1q0/khsm63-hw/spec/models/game_question_spec.rb",
+		"/home/olga/Загрузки/quiz.rb",
+		"/home/olga/rubytut2/lesson5/list_products.rb",
+		"/home/olga/rubytut2/lesson5/many_passenger.rb",
+		"/home/olga/rubytut2/lesson5/passenger.rb",
+		"/home/olga/rubytut2/lesson6/obedient/obedient.rb",
+		"/home/olga/rubytut2/lesson6/shop/shop.rb",
+		"/home/olga/rubytut2/lesson7/магазин_программистов/main.rb",
+		"/home/olga/ТЗ/5_b.rb",
+		"/home/olga/ТЗ/1_a.rb",
+		"/home/olga/ТЗ/1_b.rb",
+		"/home/olga/ТЗ/2_a.rb",
+		"/home/olga/ТЗ/2_b.rb",
+		"/home/olga/ТЗ/2_c.rb",
+		"/home/olga/ТЗ/3.rb",
+		"/home/olga/ТЗ/4_a.rb",
+		"/home/olga/ТЗ/4_b.rb",
+		"/home/olga/ТЗ/4_c.rb",
+		"/home/olga/ТЗ/5_a.rb",
+		"/home/olga/ТЗ/5_c.rb",
+		"/home/olga/avto/stylesheet/text.css",
+		"/home/olga/avto/stylesheet/action.css",
+		"/home/olga/avto/stylesheet/header.css",
+		"/home/olga/avto/stylesheet/intro.css",
+		"/home/olga/avto/stylesheet/reset.css",
+		"/home/olga/avto/stylesheet/team.css",
+		"/home/olga/avto/stylesheet/grid.css",
+		"/home/olga/raks_el_nour/stylesheet/header.css",
+		"/home/olga/raks_el_nour/index.html",
+		"/home/olga/avto/stylesheet/button.css",
+		"/home/olga/avto/index.html",
+		"/home/olga/avto/stylesheet/features.css",
+		"/home/olga/avto/stylesheet/fares.css",
+		"/home/olga/Рабочий стол/сайт/stylesheet/text.css",
+		"/home/olga/rortut/bbq/.env",
+		"/home/olga/rortut/bbq/vendor/.env",
+		"/home/olga/rortut/bbq/app/controllers/messages_controller.rb",
+		"/home/olga/rortut/bbq/config/initializers/mailjet.rb",
+		"/home/olga/rortut/bbq/config/application.rb",
+		"/home/olga/rortut/bbq/app/views/message_mailer/send_email.text.erb",
+		"/home/olga/rortut/bbq/app/views/layouts/application.html.erb",
+		"/home/olga/rortut/bbq/app/models/subscription.rb",
+		"/home/olga/rortut/bbq/config/initializers/carrierwave.rb",
+		"/home/olga/rortut/bbq/config/locales/en.yml",
+		"/home/olga/rortut/bbq/Gemfile",
+		"/home/olga/rortut/bbq/config/environments/development.rb",
+		"/home/olga/rortut/bbq/app/mailers/application_mailer.rb",
+		"/home/olga/rortut/bbq/app/mailers/event_mailer.rb",
+		"/home/olga/rortut/bbq/app/views/event_mailer/subscription.text.erb",
+		"/home/olga/rortut/bbq/app/views/event_mailer/subscription.html.erb",
+		"/home/olga/rortut/bbq/app/views/event_mailer/comment.text.erb",
+		"/home/olga/rortut/bbq/app/views/event_mailer/comment.html.erb",
+		"/home/olga/rortut/bbq/app/controllers/subscriptions_controller.rb",
+		"/home/olga/rortut/bbq/app/controllers/comments_controller.rb",
+		"/home/olga/.cache/.fr-doFeJk/bbq_action_mailer/app/views/event_mailer/comment.html.erb",
+		"/home/olga/olga/.ssh/id_rsa.pub"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "",
+	"project": "manifest.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"_form",
+				"app/views/messages/_form.html.erb"
+			],
+			[
+				"app.rb",
+				"config/application.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"mes",
+				"app/services/message_service.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"room",
+				"app/models/room.rb"
+			],
+			[
+				"applijs",
+				"app/javascript/packs/application.js"
+			],
+			[
+				"channels/index.js",
+				"app/javascript/channels/index.js"
+			],
+			[
+				"chaindex.js",
+				"node_modules/connect-history-api-fallback/lib/index.js"
+			],
+			[
+				"index.js",
+				"node_modules/accepts/index.js"
+			],
+			[
+				"room_channel.js",
+				"app/javascript/channels/room_channel.js"
+			],
+			[
+				"rooco",
+				"app/controllers/rooms_controller.rb"
+			],
+			[
+				"appco",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"connection",
+				"app/channels/application_cable/connection.rb"
+			],
+			[
+				"channel",
+				"app/channels/application_cable/channel.rb"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"packaje",
+				"node_modules/@rails/webpacker/package/utils/objectify.js"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": false,
+	"side_bar_visible": false,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
