@@ -6,4 +6,8 @@ class User < ApplicationRecord
   def generate_nickname
   	self.nickname = Faker::Name.first_name.downcase
   end
+
+  def as_json(options = {})
+    super(only: :nickname)
+  end
 end

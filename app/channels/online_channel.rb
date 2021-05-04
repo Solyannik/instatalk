@@ -1,4 +1,3 @@
-
 class OnlineChannel < ApplicationCable::Channel
   def subscribed
     current_user.update(online: true)
@@ -15,6 +14,6 @@ class OnlineChannel < ApplicationCable::Channel
 
   def render_users
     ActionCable.server.broadcast "online_channel",
-                                 users: User.online
+                                 users: User.online.as_json
   end
 end
